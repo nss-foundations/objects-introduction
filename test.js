@@ -1,3 +1,6 @@
+
+import { testFunction } from "index.js"
+
 describe("Student properties are created", () => {
     test("Correct properties are on student object", () => {
         expect(testFunction())
